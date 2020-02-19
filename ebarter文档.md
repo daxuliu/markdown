@@ -94,7 +94,7 @@
 
 ### 截图
 
-![avatar](商城.png) 
+![avatar](https://github.com/daxuliu/markdown/raw/master/商城.png) 
 
 
 
@@ -1114,7 +1114,7 @@ public class MyImageView extends AppCompatImageView {
 |返回值| 无 |
 
 ###部件截图
-![avatar](详情.png)
+![avatar](https://github.com/daxuliu/markdown/raw/master/详情.png)
 ###部件页面代码：
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -2568,7 +2568,7 @@ public class S3 {
 
 ### 部件截图
 
-![ava](支付.png)
+![ava](https://github.com/daxuliu/markdown/raw/master/支付.png)
 
 ###部件逻辑代码
 
@@ -2677,7 +2677,7 @@ public class Pay extends AppCompatActivity {
 |返回值| `String tn`|
 ### 部件截图
 
-![ava](订单.png)
+![ava](https://github.com/daxuliu/markdown/raw/master/订单.png)
 
 
 
@@ -5913,7 +5913,7 @@ textView444.setText("");
 
 ### 部件截图：
 
-![ava](https://github.com/daxuliu/markdown/blob/master/login.png?raw=true)
+![ava](https://github.com/daxuliu/markdown/raw/master/login.png)
 
 
 
@@ -6776,7 +6776,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 | 被调用者   | `null`           |
 | 入口参数   | 无               |
 | 返回值     | 无               |
-
+![](https://github.com/daxuliu/markdown/raw/master/reg.png)
 ### 逻辑代码
 
 ```java
